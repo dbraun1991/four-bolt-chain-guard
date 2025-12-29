@@ -25,6 +25,8 @@ This chain guard uses a **universal mounting system** rather than being designed
 
 ## Design Details
 
+<img src="./images/four-bolt-chain-guard.png" width="500em" />
+
 ### Structure
 - **Two concentric rings**: Inner (70-80mm) and outer (180-190mm) rings provide rigid boundaries
 - **Four bolt channels**: Each strut has two 5mm walls with 8mm gap for bolt positioning
